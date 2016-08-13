@@ -1,0 +1,16 @@
+.DS_Store
+config
+*.sublime-*
+deploy
+apex-scripts
+debug
+node_modules
+dev
+static
+/Referenced\ Packages/**
+mm.log
+
+# Intellij/IlluminatedCloud
+.idea/
+IlluminatedCloud/
+*.iml
